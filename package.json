@@ -1,0 +1,25 @@
+{
+  "name": "russianroulettejs",
+  "version": "1.0.0",
+  "description": "A NodeJS Russian Roulette that will destroy your PC!",
+  "main": "russianroulettelinux.js",
+  "dependencies": {
+    "commander": "^6.2.1",
+    "enquirer": "^2.3.6",
+    "prompt-confirm": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoredFishRE/RussianRouletteJS.git"
+  },
+  "author": "BoredFishRE",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/BoredFishRE/RussianRouletteJS/issues"
+  },
+  "homepage": "https://github.com/BoredFishRE/RussianRouletteJS#readme"
+}
